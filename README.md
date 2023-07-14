@@ -1,6 +1,6 @@
 ### Hi there 👋👋👋
 
-[![Chao Xu's One-2-3-45 GitHub Stats](https://github-readme-stats.vercel.app/api?username=One-2-3-45&rank_icon=github "Chao Xu's One-2-3-45 GitHub Stats")](https://github.com/anuraghazra/github-readme-stats)
+[![Chao Xu's One-2-3-45 GitHub Stats](https://github-readme-stats.vercel.app/api?username=One-2-3-45&rank_icon=github "Chao Xu's One-2-3-45 GitHub Stats")](https://github.com/One-2-3-45/One-2-3-45)
 
 This is Chao Xu [[HomePage]](https://chaoxu.xyz/), a Ph.D. candidate at UCLA.
 
