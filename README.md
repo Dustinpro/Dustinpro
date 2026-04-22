@@ -1,10 +1,8 @@
 ### Hi there 👋👋👋
 
-[![Chao Xu's One-2-3-45 GitHub Stats](https://github-readme-stats.vercel.app/api?username=One-2-3-45&hide=contribs,prs,issues&rank_icon=github "Chao Xu's One-2-3-45 GitHub Stats")](https://github.com/One-2-3-45/One-2-3-45)
+This is Chao Xu [[HomePage]](https://chaoxu.xyz/).
 
-This is Chao Xu [[HomePage]](https://chaoxu.xyz/), a Ph.D. candidate at UCLA.
-
-🔭 I’m currently working on image-to-3D, unleashing pretrained 2D diffusion's potential in the realm of 3D.
+🔭 I’m currently working on world models for robotics.
 
 <!--
 **Dustinpro/Dustinpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
