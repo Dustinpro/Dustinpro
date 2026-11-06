@@ -1,6 +1,6 @@
 ### Hi there 👋👋👋
 
-This is Chao Xu [[HomePage]](https://chaoxu.xyz/).
+This is Chao Xu [[HomePage]](https://chaoxu.ai/).
 
 🔭 I’m currently working on world models for robotics.
 
